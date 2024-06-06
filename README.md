@@ -1,1 +1,0 @@
-# qoin-technical-test
